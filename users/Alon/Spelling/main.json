@@ -2,15 +2,15 @@
   "title": "Alon's spelling challange",
   "subtitle": "What made Apollo a success",
   "questions": [
-    { "word": "rocket" },
-    { "word": "astronaut" },
-    { "word": "launch" },
-    { "word": "landing" },
-    { "word": "orbit" },
-    { "word": "module" },
-    { "word": "signal" },
-    { "word": "engine" },
-    { "word": "control" },
-    { "word": "space" }
+  { "word": "journey" },
+    { "word": "library" },
+    { "word": "weather" },
+    { "word": "picture" },
+    { "word": "garden" },
+    { "word": "holiday" },
+    { "word": "family" },
+    { "word": "country" },
+    { "word": "morning" },
+    { "word": "evening" }
   ]
 }
