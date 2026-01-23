@@ -2,15 +2,15 @@
   "title": "Alon's spelling challange",
   "subtitle": "What made Apollo a success",
   "questions": [
-    { "word": "rocket" },
-    { "word": "astronaut" },
-    { "word": "launch" },
-    { "word": "landing" },
-    { "word": "orbit" },
-    { "word": "module" },
-    { "word": "signal" },
-    { "word": "engine" },
-    { "word": "control" },
-    { "word": "space" }
+    { "word": "spacecraft" },
+    { "word": "mission" },
+    { "word": "trajectory" },
+    { "word": "simulator" },
+    { "word": "controller" },
+    { "word": "procedures" },
+    { "word": "anomalies" },
+    { "word": "training" },
+    { "word": "operations" },
+    { "word": "systems" }
   ]
 }

@@ -2,11 +2,16 @@
   "title": "Super Spellings",
   "subtitle": "Nouns using - ity suffix",
   "questions": [
-    { "word": "electricity" },
-    { "word": "engineering" },
-    { "word": "luxury" },
-    { "word": "victory" },
-    { "word": "entitlement" },
-    { "word": "beauty" }
+    { "word": "community" },
+    { "word": "curiosity" },
+    { "word": "ability" },
+    { "word": "visibility" },
+    { "word": "captivity" },
+    { "word": "activity" },
+    { "word": "flexibility" },
+    { "word": "possibility" },
+    { "word": "sensitivity" },
+    { "word": "capacity" },
+    { "word": "quantity" }
     ]
 }
