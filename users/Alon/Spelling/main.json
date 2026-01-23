@@ -1,0 +1,16 @@
+{
+  "title": "Alon's spelling challange",
+  "subtitle": "What made Apollo a success",
+  "questions": [
+    { "word": "spacecraft" },
+    { "word": "mission" },
+    { "word": "trajectory" },
+    { "word": "simulator" },
+    { "word": "controller" },
+    { "word": "procedures" },
+    { "word": "anomalies" },
+    { "word": "training" },
+    { "word": "operations" },
+    { "word": "systems" }
+  ]
+}
