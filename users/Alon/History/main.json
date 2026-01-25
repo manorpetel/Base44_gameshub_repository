@@ -4,22 +4,22 @@
   "questions": [
     {
       "name": "Winston Churchill",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Winston_Churchill_1941.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Winston_Churchill_cph.3b12010.jpg",
       "otherAnswers": ["Franklin Roosevelt", "Margaret Thatcher", "Napoleon Bonaparte"]
     },
     {
       "name": "King Charles III",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Charles_III_%282023%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Charles_III#/media/File:King_Charles_III_(July_2023).jpg",
       "otherAnswers": ["Prince William", "Prince Harry", "Barack Obama"]
     },
     {
       "name": "Princess Diana",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Diana%2C_Princess_of_Wales_1997.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Diana,_Princess_of_Wales#/media/File:Diana,_Princess_of_Wales_1997_(2)_(cropped).jpg",
       "otherAnswers": ["Queen Elizabeth II", "Kate Middleton", "Angela Merkel"]
     },
     {
       "name": "Prince Harry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Prince_Harry_2020.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Prince_Harry,_Duke_of_Sussex#/media/File:Prince_Harry,_Duke_of_Sussex_2020_cropped_02.jpg",
       "otherAnswers": ["Prince William", "Justin Trudeau", "Donald Trump"]
     },
     {
