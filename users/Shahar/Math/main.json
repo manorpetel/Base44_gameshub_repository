@@ -1,0 +1,28 @@
+{
+  "title": "Shahar's Wizard Math",
+  "subtitle": "Wizard Level 35",
+  "questions": [
+    { "test": 1, "question": "30 × 3", "answer": 90 },
+    { "test": 1, "question": "40 × 4", "answer": 160 },
+    { "test": 1, "question": "20 × 7", "answer": 140 },
+    { "test": 1, "question": "50 × 9", "answer": 450 },
+    { "test": 1, "question": "60 × 3", "answer": 180 },
+    { "test": 1, "question": "70 × 4", "answer": 280 },
+    { "test": 1, "question": "80 × 7", "answer": 560 },
+    { "test": 1, "question": "90 × 9", "answer": 810 },
+    { "test": 1, "question": "40 × 7", "answer": 280 },
+    { "test": 1, "question": "30 × 9", "answer": 270 },
+    { "test": 1, "question": "70 × 3", "answer": 210 },
+
+    { "test": 2, "question": "210 ÷ 3", "answer": 70 },
+    { "test": 2, "question": "280 ÷ 4", "answer": 70 },
+    { "test": 2, "question": "560 ÷ 7", "answer": 80 },
+    { "test": 2, "question": "450 ÷ 9", "answer": 50 },
+    { "test": 2, "question": "360 ÷ 4", "answer": 90 },
+    { "test": 2, "question": "630 ÷ 9", "answer": 70 },
+
+    { "test": 3, "question": "__ × 7 = 280", "answer": 40 },
+    { "test": 3, "question": "360 ÷ __ = 40", "answer": 9 },
+    { "test": 3, "question": "__ × 4 = 360", "answer": 90 }
+  ]
+}
