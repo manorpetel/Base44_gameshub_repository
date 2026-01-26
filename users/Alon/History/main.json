@@ -4,17 +4,17 @@
   "questions": [
     {
       "name": "Winston Churchill",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Winston_Churchill_cph.3b12010.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
       "otherAnswers": ["Franklin Roosevelt", "Margaret Thatcher", "Napoleon Bonaparte"]
     },
     {
       "name": "King Charles III",
-      "image": "https://commons.wikimedia.org/wiki/Charles_III#/media/File:King_Charles_III_(July_2023).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Charles%2C_Prince_of_Wales_at_COP21.jpg",
       "otherAnswers": ["Prince William", "Prince Harry", "Barack Obama"]
     },
     {
       "name": "Princess Diana",
-      "image": "https://commons.wikimedia.org/wiki/Diana,_Princess_of_Wales#/media/File:Diana,_Princess_of_Wales_1997_(2)_(cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Diana%2C_Princess_of_Wales.jpg",
       "otherAnswers": ["Queen Elizabeth II", "Kate Middleton", "Angela Merkel"]
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Napoleon Bonaparte",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281807%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Napol%C3%A9on_Bonaparte#/media/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
       "otherAnswers": ["Julius Caesar", "Winston Churchill", "George Washington"]
     },
     {

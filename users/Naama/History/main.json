@@ -1,25 +1,26 @@
 {
-  "title": "Naama's Historical Figures",
   "subtitle": "World Leaders and British Figures",
   "questions": [
     {
       "name": "Winston Churchill",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Winston_Churchill_1941.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
       "otherAnswers": ["Franklin Roosevelt", "Margaret Thatcher", "Napoleon Bonaparte"]
     },
     {
       "name": "King Charles III",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Charles_III_%282023%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Charles%2C_Prince_of_Wales_at_COP21.jpg",
       "otherAnswers": ["Prince William", "Prince Harry", "Barack Obama"]
     },
     {
       "name": "Princess Diana",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Diana%2C_Princess_of_Wales_1997.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Diana%2C_Princess_of_Wales.jpg",
       "otherAnswers": ["Queen Elizabeth II", "Kate Middleton", "Angela Merkel"]
     },
     {
       "name": "Prince Harry",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Prince_Harry_2020.jpg",
       "otherAnswers": ["Prince William", "Justin Trudeau", "Donald Trump"]
     },
     {
