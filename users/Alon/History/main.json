@@ -18,26 +18,11 @@
       "otherAnswers": ["Queen Elizabeth II", "Kate Middleton", "Angela Merkel"]
     },
     {
-      "name": "Prince Harry",
-      "image": "https://commons.wikimedia.org/wiki/Prince_Harry,_Duke_of_Sussex#/media/File:Prince_Harry,_Duke_of_Sussex_2020_cropped_02.jpg",
-      "otherAnswers": ["Prince William", "Justin Trudeau", "Donald Trump"]
-    },
-    {
-      "name": "Barack Obama",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Barack_Obama_2012_portrait.jpg",
-      "otherAnswers": ["Donald Trump", "George Washington", "Vladimir Putin"]
-    },
-    {
       "name": "Donald Trump",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
       "otherAnswers": ["Joe Biden", "Winston Churchill", "Napoleon Bonaparte"]
     },
-    {
-      "name": "Vladimir Putin",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vladimir_Putin_2021.jpg",
-      "otherAnswers": ["Volodymyr Zelenskyy", "Xi Jinping", "James Watt"]
-    },
-    {
+     {
       "name": "Volodymyr Zelenskyy",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Volodymyr_Zelensky_Official_portrait.jpg",
       "otherAnswers": ["Vladimir Putin", "Emmanuel Macron", "Benjamin Netanyahu"]
@@ -46,21 +31,6 @@
       "name": "Benjamin Netanyahu",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Benjamin_Netanyahu_2018.jpg",
       "otherAnswers": ["Golda Meir", "Barack Obama", "Napoleon Bonaparte"]
-    },
-    {
-      "name": "James Watt",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/James_Watt_by_Henry_Howard.jpg",
-      "otherAnswers": ["Isaac Newton", "Albert Einstein", "Thomas Edison"]
-    },
-    {
-      "name": "Napoleon Bonaparte",
-      "image": "https://commons.wikimedia.org/wiki/Napol%C3%A9on_Bonaparte#/media/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
-      "otherAnswers": ["Julius Caesar", "Winston Churchill", "George Washington"]
-    },
-    {
-      "name": "Adolf Hitler",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Adolf_Hitler_1933.jpg",
-      "otherAnswers": ["Joseph Stalin", "Napoleon Bonaparte", "Vladimir Putin"]
     }
-  ]
+    ]
 }
